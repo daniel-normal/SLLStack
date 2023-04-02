@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLLStack", "SLLStack.csproj", "{9648168D-C4FA-42F7-9385-8E090F03ADE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9648168D-C4FA-42F7-9385-8E090F03ADE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9648168D-C4FA-42F7-9385-8E090F03ADE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9648168D-C4FA-42F7-9385-8E090F03ADE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9648168D-C4FA-42F7-9385-8E090F03ADE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7F4D77-85B7-4004-AE97-0E9BBABEB154}
+	EndGlobalSection
+EndGlobal
